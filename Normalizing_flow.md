@@ -6,19 +6,10 @@ Before we actually get into the normalizing flow, we need to discuss some concep
 ### Jacobian matrix
 
 Consider a simple transition:
-```markdown
-$$
-\left[
- \begin{matrix}
-   a & b & c & d & e\\
-   f & g & h & i & j \\
-   k & l & m & n & o \\
-   p & q & r & s & t
-  \end{matrix} 
-\right]
-$$
+f([x,y]) = [x+sin(y), y+sin(x)]
+[Image](images/v2-d6e7e48f04af2bd44ea56acf4ad5bd1b_b.gif)
 
- $\begin{matrix} a & b \\ c & d \end{matrix}$
+```markdown
  
 Syntax highlighted code block
 
