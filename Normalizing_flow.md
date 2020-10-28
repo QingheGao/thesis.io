@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Normalizing flow
 
-You can use the [editor on GitHub](https://github.com/QingheGao/thesis.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Before we actually get into the normalizing flow, we need to discuss some concept of Jacobian.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Jacobian matrix
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
