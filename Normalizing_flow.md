@@ -7,7 +7,9 @@ Before we actually get into the normalizing flow, we need to discuss some concep
 
 Consider a simple transition:
 f([x,y]) = [x+sin(y), y+sin(x)]
-[Image](images/v2-d6e7e48f04af2bd44ea56acf4ad5bd1b_b.gif)
+
+
+![Image](images/v2-d6e7e48f04af2bd44ea56acf4ad5bd1b_b.gif)
 
 ```markdown
  
