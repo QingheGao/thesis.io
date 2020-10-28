@@ -7,16 +7,12 @@ Before we actually get into the normalizing flow, we need to discuss some concep
 
 Consider a simple transition:
 
-$$
-\left[\begin{array}{cc} 
-0.8944272 & 0.4472136\\
--0.4472136 & -0.8944272
-\end{array}\right]
-\left[\begin{array}{cc} 
-10 & 0\\ 
-0 & 5
-\end{array}\right]
-$$ 
+\\[
+\begin{bmatrix}
+x\\
+y\\
+\end{bmatrix}
+\\]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
