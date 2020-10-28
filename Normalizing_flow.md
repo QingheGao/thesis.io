@@ -18,31 +18,10 @@ But this transition has an important property: Local linearly.
 ![Image](images/v2-0b540bc082b2dc44c0ba92139d24e30d_b.gif)
 
 It is clear to see that local transition is linearly transform. Thus, we can use this property.
-```markdown
- 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Linearly transform of x and y means the coordinates after linear transformation are actually parallel to each other.
 
-- Bulleted
-- List
+First, consider a small distance dx as green arrow shows.
+![Image](images/截屏2020-10-28 13.30.06.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QingheGao/thesis.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://zhuanlan.zhihu.com/p/100287713
