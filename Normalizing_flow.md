@@ -6,19 +6,19 @@ Before we actually get into the normalizing flow, we need to discuss some concep
 ### Jacobian matrix
 
 Consider a simple transition:
-
-$$
-\\[
-\begin{bmatrix}
-x\\
-y\\
-\end{bmatrix}
-\\]
-$$
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
+
+\left[
+ \begin{matrix}
+   a & b & c & d & e\\
+   f & g & h & i & j \\
+   k & l & m & n & o \\
+   p & q & r & s & t
+  \end{matrix} 
+\right]
+
+
+
 Syntax highlighted code block
 
 # Header 1
