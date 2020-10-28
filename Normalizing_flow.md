@@ -18,7 +18,8 @@ $$
 \right]
 $$
 
-
+ $\begin{matrix} a & b \\ c & d \end{matrix}$
+ 
 Syntax highlighted code block
 
 # Header 1
