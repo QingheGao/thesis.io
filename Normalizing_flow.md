@@ -7,7 +7,7 @@ Before we actually get into the normalizing flow, we need to discuss some concep
 
 Consider a simple transition:
 ```markdown
-
+$$
 \left[
  \begin{matrix}
    a & b & c & d & e\\
@@ -16,7 +16,7 @@ Consider a simple transition:
    p & q & r & s & t
   \end{matrix} 
 \right]
-
+$$
 
 
 Syntax highlighted code block
